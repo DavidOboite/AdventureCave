@@ -1,0 +1,4 @@
+Wizard,80,30
+Warrior,120,10
+Rogue,90,20
+Paladin,110,15

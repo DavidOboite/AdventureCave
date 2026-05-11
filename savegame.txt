@@ -1,0 +1,5 @@
+Hero:Warrior
+Gold:70
+Health:80
+Item:Ancient Crown
+Item:Healing Potion

@@ -1,0 +1,10 @@
+Gold Coin
+Silver Ring
+Magic Sword
+Ruby
+Emerald
+Healing Potion
+Ancient Crown
+Dragon Shield
+Wizard Staff
+Treasure Chest

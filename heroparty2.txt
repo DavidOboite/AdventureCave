@@ -1,0 +1,4 @@
+Necromancer,70,40
+Demon Knight,140,5
+Shadow Assassin,85,25
+Warlock,95,30
